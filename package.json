@@ -8,7 +8,7 @@
     "start": "next start",
     "export": "next export",
     "lint": "echo \"No linter configured yet\"",
-    "generate:assets": "echo \"No assets to configure\"",
+    "generate:assets": "workflows2md",
     "test": "echo \"No tests configured yet\"",
     "release": "echo \"No release to npm for this project\""
   },
@@ -70,7 +70,8 @@
     "remark-images": "^2.0.0",
     "remark-slug": "^6.0.0",
     "tailwindcss": "^1.4.6",
-    "tailwindcss-animations": "^2.0.0"
+    "tailwindcss-animations": "^2.0.0",
+    "workflows-to-markdown": "^0.0.2"
   },
   "devDependencies": {
     "eslint": "^7.0.0",
