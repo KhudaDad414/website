@@ -71,7 +71,7 @@
     "remark-slug": "^6.0.0",
     "tailwindcss": "^1.4.6",
     "tailwindcss-animations": "^2.0.0",
-    "workflows-to-markdown": "^0.0.2"
+    "workflows-to-markdown": "^0.0.4"
   },
   "devDependencies": {
     "eslint": "^7.0.0",
